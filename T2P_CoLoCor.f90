@@ -51,6 +51,7 @@ program T2P_CoLoCor
   write(ulog,'(a)') "    \____/\___/\____/\___/\____/\___/|_|   "
   write(ulog,'(a)') "                                           "
   write(ulog,'(a)') '*--- T2P Co-Located Log Corrector (CoLoCor) ---*'
+  write(ulog,'(a)') '                    v1.0.0'
   write(ulog,'(a)') '      Copyright S.S. Papadopulos & Assoc.'
   write(ulog,*)
   
